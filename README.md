@@ -7,9 +7,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --->
- A Computer Science and Engineering graduate | Cybersecurity Enthusiast
- 
- Looking for an entry level position in the security industry.
+ A Computer Science and Engineering graduate and a Cybersecurity Enthusiast looking for an entry level position in the security industry.
 
 <a href="https://www.linkedin.com/in/ram-rahul-dammu-366322212"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
