@@ -17,7 +17,7 @@ As a recent graduate entering the cybersecurity field, I'm driven by a genuine p
 ## Hands-on Experience
 
 As part of a certification offered by google, I've gained some knowledge and experience on conducting an Internal Security Audit based on the given scenario using the resources provided.
-Have a look at my work here: <a href="https://github.com/rahuld15/Internal-Security-Audit">Botium Toys :Internal Security Audit</a>
+Have a look at my work here: <a href="https://github.com/rahuld15/Internal-Security-Audit">Botium Toys : Internal Security Audit</a>
 
 <!---
 rahuld15/rahuld15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
